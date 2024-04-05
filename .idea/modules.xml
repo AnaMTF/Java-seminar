@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaC1/Cap1/Cap1.iml" filepath="$PROJECT_DIR$/javaC1/Cap1/Cap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaC1/Cap2/Cap2.iml" filepath="$PROJECT_DIR$/javaC1/Cap2/Cap2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaC1/Cap3/Cap3.iml" filepath="$PROJECT_DIR$/javaC1/Cap3/Cap3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaC1/JavaS1Ionut/JavaS1Ionut.iml" filepath="$PROJECT_DIR$/javaC1/JavaS1Ionut/JavaS1Ionut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar003/Seminar003.iml" filepath="$PROJECT_DIR$/Seminar003/Seminar003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar02/Seminar02.iml" filepath="$PROJECT_DIR$/Seminar02/Seminar02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar03/Seminar03.iml" filepath="$PROJECT_DIR$/Seminar03/Seminar03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar1JAVA/seminar1JAVA.iml" filepath="$PROJECT_DIR$/seminar1JAVA/seminar1JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar24.iml" filepath="$PROJECT_DIR$/seminar24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
