@@ -33,13 +33,6 @@ public class Main {
         System.out.println();
     }
 
-    static void citireCatalog(){
-        var numeDisciplina = scanner.nextLine();
-        var numarNote = scanner.nextInt();
-
-        for (student : )
-    }
-
     public static void main(String[] args) {
 
         var studenti = citireStudenti();

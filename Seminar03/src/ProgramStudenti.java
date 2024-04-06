@@ -6,7 +6,6 @@ public class ProgramStudenti {
 
     private static Student[] centralizator = new Student[0];
     private static Scanner scanner = new Scanner(System.in);
-hghg
     public static void main(String[] args) {
         afisare("Inițial");
         citireStudenti();
