@@ -1,0 +1,5 @@
+Raport discipline si numar de note:
+Geografie : 1
+Fizica : 1
+Matematica : 2
+Literatura : 2

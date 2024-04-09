@@ -1,0 +1,6 @@
+Ion,Matematica,7
+Alexandra,Geografie,8
+Georgiana,Literatura,5
+Marius,Matematica,8
+Vlad,Literatura,6
+Cristian,Fizica,5
