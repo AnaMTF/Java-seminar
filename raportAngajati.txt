@@ -1,0 +1,5 @@
+Raport departamente si medii salariale:
+Resurse Umane : 3000
+Contabilitate : 3500
+IT : 3750
+Marketing : 2250
