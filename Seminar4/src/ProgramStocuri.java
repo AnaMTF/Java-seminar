@@ -58,8 +58,7 @@ public class ProgramStocuri {
                     public int compare(Tranzactie o1, Tranzactie o2) {
                         return o1.getData().compareTo(o2.getData());
                     }
-                }).getData();
-            }
+                }).getData();            }
             System.out.printf("%2d %-10s %3d bucati (ultima tranzactie: %s)%n", produs.getCod(), produs.getDenumire(), cantitate, data);
         }
     }
