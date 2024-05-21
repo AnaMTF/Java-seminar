@@ -1,0 +1,47 @@
+[
+   {
+      "denumire": "Stafide 200g",
+      "tranzactii": [
+         {
+            "cantitate": 10,
+            "tip": "INTRARE"
+         },
+         {
+            "cantitate": 5,
+            "tip": "IESIRE"
+         },
+         {
+            "cantitate": 6,
+            "tip": "INTRARE"
+         }
+      ],
+      "cod": 1
+   },
+   {
+      "denumire": "Seminte de pin 300g",
+      "tranzactii": [],
+      "cod": 2
+   },
+   {
+      "denumire": "Ceai verde Lipton",
+      "tranzactii": [
+         {
+            "cantitate": 7,
+            "tip": "INTRARE"
+         },
+         {
+            "cantitate": 2,
+            "tip": "IESIRE"
+         },
+         {
+            "cantitate": 1,
+            "tip": "IESIRE"
+         },
+         {
+            "cantitate": 1,
+            "tip": "IESIRE"
+         }
+      ],
+      "cod": 3
+   }
+]
